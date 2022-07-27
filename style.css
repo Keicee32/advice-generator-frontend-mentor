@@ -27,7 +27,7 @@ img {
     background: hsl(217, 19%, 24%);
     border-radius: 10px;
     text-align: center;
-    margin-bottom: 2em;
+    margin: 0 auto 2em;
 }
 
 .adviceContainer {
